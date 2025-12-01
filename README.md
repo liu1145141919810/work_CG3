@@ -4,7 +4,7 @@
 
 ### 打开方式
 
--访问网址 http://www.cgworkliudongxv.com/
+-访问网址 https://liu1145141919810.github.io/work_CG3/
 
 ### 目录结构
 
